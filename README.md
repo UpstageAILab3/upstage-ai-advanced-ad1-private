@@ -9,7 +9,7 @@
 
 ## 0. Overview
 ### Environment
-- 
+- 주최측 제공 서버
 
 ### Requirements
 astunparse==1.6.3
@@ -46,8 +46,8 @@ tzdata==2023.4
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- 2024.10.02 - Start Date
+- 2024.10.24 - Final submission deadline
 
 ## 2. Components
 
@@ -75,7 +75,9 @@ e.g.
 
 ### Dataset overview
 
-- _Explain using data_
+- 학습 데이터에 대한 Histogram
+![image](https://github.com/user-attachments/assets/024f5365-eb32-4773-be7b-f018e59317a9)
+
 
 ### EDA
 
@@ -87,11 +89,19 @@ e.g.
 
 ## 4. Modeling
 
-### Model descrition
+### 장재성
 
-- _Write model information and why your select this model_
+- _Write model train and test process with capture_
+  
+### 이진영
 
-### Modeling Process
+- _Write model train and test process with capture_
+
+### 김주형
+
+- _Write model train and test process with capture_
+
+### 임종현
 
 - _Write model train and test process with capture_
 
@@ -99,8 +109,8 @@ e.g.
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+![image](https://github.com/user-attachments/assets/937ab830-2b28-40b8-9632-fc6ea43912b5)
+
 
 ### Presentation
 
