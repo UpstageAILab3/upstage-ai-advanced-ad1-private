@@ -114,7 +114,7 @@ e.g.
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+-[presentaion file(pdf) link_](https://github.com/UpstageAILab3/upstage-ai-advanced-ad1-private/blob/main/%5B%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%5D%20Upstage%20AI%20Lab%203%EA%B8%B0_AD_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_1%EC%A1%B0.pdf)
 
 ## etc
 
