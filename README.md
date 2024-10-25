@@ -95,8 +95,12 @@ e.g.
   
 ### 이진영
 
-- _Write model train and test process with capture_
-
+- 오토인코더를 활용한 이상 탐지
+    - 오토인코더의 주요 하이퍼파라미터 설정 (Optuna 활용)
+        - Bottleneck(Hidden Layer)의 수, Latente Vector의 차원 수 등
+    - 훈련 데이터의 모든 피처(총 52개)를 이용했으나 피처 선택이 주요
+        - 상관계수는 피처 간의 관계를 나타내는 지표로서, 본 화학 공정 분야 특성상 피처 선택 기준으로 부적합할 수 있음
+      
 ### 김주형
 
 - _Write model train and test process with capture_
